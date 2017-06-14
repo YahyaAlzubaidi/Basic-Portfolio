@@ -35,7 +35,7 @@ body{
  	border-bottom: 2px solid #dddddd;
  	height: 91px;
  	margin: 0 auto;
- 	width: 960px;
+ 	width: 100%;
 
  	}
  footer{
@@ -67,6 +67,7 @@ section{
 	
 	float: left;
 	padding: 27px 10px;
+	margin-left: 235px;
 /* I used the id connect here to float the nav box to the right in order to make it look as a raw*/
 }
 #connect{
@@ -110,6 +111,7 @@ padding-bottom: 10px;
 /* to set the padding in the nav box*/
 nav{
 padding: 45px 40px 35px 20px;
+margin-right: 235px;
 
 }
 
