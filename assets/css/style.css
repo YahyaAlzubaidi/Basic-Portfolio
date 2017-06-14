@@ -234,8 +234,9 @@ section input {
 
 
 
-/* I have to use clear: both after the float to make sure that the floating will be in order*/
-#portfolio-section .section-content .clear {
+/* I have to use clear: both after the float to control how things will float (to make sure that the floating will be in order)*/
+.thirdrow {
+	float: none;
 	clear: both;
 } 
 
